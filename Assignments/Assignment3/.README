@@ -1,0 +1,1 @@
+The architecture diagram is missing one traceback to the start, as the data is processed in a cyclic manner. 
